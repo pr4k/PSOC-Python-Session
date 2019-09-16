@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-This simple script fetches a Chuck Norris Joke from an API
+This simple script fetches a Random Joke Joke from an API
 '''
 # Load Required Libraries
 import requests
