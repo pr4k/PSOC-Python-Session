@@ -1,3 +1,5 @@
+#login to the perticular gmail and then allow to unsafe apps https://myaccount.google.com/lesssecureapps
+
 import smtplib 
 import config 
 
